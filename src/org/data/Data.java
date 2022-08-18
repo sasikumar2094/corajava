@@ -6,7 +6,7 @@ public class Data {
 		System.out.println("System no is 1");//master
 
 	}
-	private void system2() {
+	private void system3() {
 		System.out.println("System no is 2"); //Ashik
 
 }
